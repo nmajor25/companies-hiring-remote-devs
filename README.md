@@ -15,13 +15,13 @@ A big list of companies that are hiring software developers that can work remote
 |[Acala](https://jobs.lever.co/acala) | Anywhere | |
 |[Acorns](https://www.acorns.com/career-opportunities/) | USA | This role has the option to be remote or based in their Irvine, CA or New York, NY offices. |
 |[Addepar](https://boards.greenhouse.io/addepar1/) | USA | |
-|[Administrate](https://administrate.hirehive.com/) | Ireland, U.K., USA | |
+|[Administrate](https://administrate.hirehive.com/) | Ireland, UK, USA | |
 |[Adyen](https://careers.adyen.com/vacancies?locations=Remote&teams=Development) | USA | |
 |[Affirm](https://boards.greenhouse.io/affirm/) | USA | |
 |[Aha!](https://www.aha.io/company/careers/current-openings) | North & South America | |
 |[Airship](https://jobs.lever.co/airship) | USA, Europe | |
 |[Alchemy](https://jobs.lever.co/alchemy) | USA | |
-|[Algolia](https://www.algolia.com/careers/) | Americas, EMEA,  | |
+|[Algolia](https://www.algolia.com/careers/) | Americas, EMEA | |
 |[Almanac](https://almanac.homerun.co/) | Anywhere | |
 |[Anvyl](https://apply.workable.com/anvyl/) | USA | |
 |[App Academy](https://jobs.lever.co/appacademy/) | USA | |
@@ -37,6 +37,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Benchling](https://www.benchling.com/careers/#openings) | USA | |
 |[BentoBox](https://getbento.com/careers/) | USA | |
 |[BetterUp](https://www.betterup.com/about-us/careers) | USA | |
+|[BigCommerce](https://careers.bigcommerce.com/jobs/) | USA, Mexico | |
 |[Binance](https://www.binance.com/en/careers/department?name=Engineering) | Asia, Europe, North America | |
 |[Bitaccess](https://angel.co/company/bitaccess/jobs/) | Canada | |
 |[Bitfinex](https://bitfinex.recruitee.com/) | Anywhere | |
@@ -46,6 +47,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Bold Penguin](https://jobs.lever.co/boldpenguin) | Anywhere | |
 |[Boulevard](https://jobs.lever.co/boulevard/) | Anywhere | |
 |[Boundless](https://careers.boundless.com/careers/) | USA, Canada | |
+|[Bounteous](https://jobs.lever.co/bounteous) | USA, Canada, Mexico | |
 |[Boxed](https://boards.greenhouse.io/boxedwholesale/) | USA | |
 |[Bractlet](https://bractlet.com/careers/) | USA | |
 |[Brainly](https://careers.brainly.com/open-positions) | Europe | Poland, Barcelona, or Spain |
@@ -126,6 +128,8 @@ A big list of companies that are hiring software developers that can work remote
 |[Feather](https://apply.workable.com/feather/) | USA | |
 |[FieldLevel](https://www.fieldlevel.com/about/jobs#openings) | USA | |
 |[FightCamp](https://jobs.lever.co/fightcamp) | Anywhere | |
+|[Figma](https://www.figma.com/careers/#job-openings) | USA | |
+|[Figure](https://www.figure.com/careers#Careers-Open-Roles) | USA | |
 |[FINN](https://jobs.lever.co/finn.auto) | Europe | Munich office or remotely ±3 hours of the Munich time zone (CET/CEST). |
 |[Fivestars](https://www.fivestars.com/careers/) | USA | |
 |[FlightRadar24](https://careers.flightradar24.com/) | Europe | Be located within a 3-hour time difference from Central European Time (CET/CEST). |
@@ -197,6 +201,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Lark](https://careers.lark.com/jobs/search) | USA | |
 |[Latch](https://www.latch.com/careers#current-openings) | USA | |
 |[Lattice](https://lattice.com/job) | USA | Remote-first hybrid model. |
+|[Launch Potato](https://launchpotato.com/careers#job_listings) | USA | Remote-first hybrid model. |
 |[Life360](https://boards.greenhouse.io/life360) | USA | |
 |[Limeade](https://boards.greenhouse.io/limeade/) | USA, Canada | |
 |[Lingokids](https://jobs.lingokids.com/) | Europe | Within +/- 2 hours of the CET timezone. |
@@ -233,6 +238,7 @@ A big list of companies that are hiring software developers that can work remote
 |[OOZOU](https://oozou.com/careers#positions) | Asia | Office located in Bangkok, Thailand. |
 |[Opendoor](https://jobs.lever.co/opendoor/) | USA, Canada | |
 |[Outschool](https://jobs.lever.co/outschool) | USA, Canada | |
+|[Pacaso](https://boards.greenhouse.io/pacaso) | USA | |
 |[PacketFabric](https://packetfabric.com/careers) | Anywhere | |
 |[PagerDuty](https://boards.greenhouse.io/pagerduty/) | USA, Canada | |
 |[Passbase](https://boards.greenhouse.io/passbase/) | USA, Europe | Remote-first company with offices in NYC & Berlin. |
@@ -293,6 +299,7 @@ A big list of companies that are hiring software developers that can work remote
 |[SingleStore](https://boards.greenhouse.io/singlestore/) | USA | |
 |[Sisense](https://www.sisense.com/careers/#job-positions-table) | USA | |
 |[Sketch](https://www.sketch.com/careers/#job-openings) | Europe, Africa, USA | |
+|[Skillshare](https://jobs.lever.co/skillshare) | USA, South America | |
 |[Snackpass](https://boards.greenhouse.io/snackpass) | USA | |
 |[Snyk](https://boards.greenhouse.io/snyk) | USA, Europe | |
 |[Spacemesh](https://spacemesh.io/careers/) | Anywhere | A flat and fully remote structure, with team members in The United States, Italy, Ukraine, Israel, Germany, India, Taiwan, and more |
@@ -307,6 +314,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Sticker Mule](https://www.stickermule.com/careers) | Anywhere | |
 |[Stride](https://www.stridebenefits.com/careers-posting) | USA | |
 |[Stripe](https://stripe.com/jobs/search) | North America | |
+|[Substack](https://substack.com/jobs) | North America | Main office is in San Francisco with a remote-first team distributed across North America. |
 |[Sumo Logic](https://boards.greenhouse.io/sumologic) | USA, Canada | |
 |[SundaeSwap](https://jobs.lever.co/sundaeswap) | Anywhere | |
 |[Superhuman](https://superhuman.com/roles) | North America | |
