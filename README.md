@@ -100,11 +100,13 @@ A big list of companies that are hiring software developers that can work remote
 |[Dave](https://jobs.lever.co/dave) | USA | |
 |[Deel](https://jobs.ashbyhq.com/Deel/) | LATAM, EMEA, Anywhere | |
 |[Deepgram](https://jobs.lever.co/deepgram/) | USA | |
+|[Degreed](https://boards.greenhouse.io/degreed/) | USA, Australia | Remote-first company. But roles are open to in-office or flex work if you live in a city with a physical office location. |
 |[Density](https://jobs.lever.co/density/) | USA | |
 |[Devpost](https://careers.jobscore.com/careers/devpost/) | USA, Canada | |
 |[Digit](https://boards.greenhouse.io/digit) | USA, Australia | |
 |[DigitalOcean](https://www.digitalocean.com/careers) | USA, Canada, India | |
 |[Discord](https://discord.com/jobs) | USA | |
+|[Ditto](https://jobs.ashbyhq.com/ditto) | Anywhere | |
 |[Docker](https://www.docker.com/career-openings/) | USA, Canada, Mexico, Europe | |
 |[DoorDash](https://careers.doordash.com/#open-positions) | USA | |
 |[DraftKings](https://careers.draftkings.com/jobs/) | USA | |
@@ -112,6 +114,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Dropbox](https://www.dropbox.com/jobs/all-jobs) | USA, Canada, Ireland | |
 |[DuckDuckGo](https://duckduckgo.recruitee.com/) | Anywhere | |
 |[Dutchie](https://dutchie.com/careers) | Anywhere | |
+|[Eaze](https://jobs.lever.co/eaze/) | USA | Has offices in San Francisco and Los Angeles, but engineering organization is fully distributed across the United States! |
 |[eBay](https://jobs.ebayinc.com/search-jobs) | USA | Excludes New Mexico, Colorado, Hawaii. |
 |[Elastic](https://jobs.elastic.co/#/) | USA, Canada, EMEA, Europe | |
 |[Encamp](https://encamp.com/job-list/) | Anywhere | |
@@ -228,8 +231,10 @@ A big list of companies that are hiring software developers that can work remote
 |[MetaLab](https://boards.greenhouse.io/metalab/) | Anywhere | Within +/- 4 hours of the PST timezone. |
 |[MongoDB](https://www.mongodb.com/careers/positions) | North America, Brazil, Europe, India, APAC, USA | |
 |[Moove It](https://moove-it.com/careers) | South America | |
+|[Morning Brew](https://jobs.lever.co/morningbrew) | USA | Based in New York City but remote-friendly. |
 |[Morty](https://boards.greenhouse.io/morty) | USA | |
 |[Movable Ink](https://movableink.com/careers#job-list) | USA | |
+|[Moz](https://moz.com/about/jobs#current-openings) | USA, Canada | Remote-friendly culture, with the option to be in office in Ottawa, Raleigh-Durham, Seattle or Vancouver. |
 |[Mux](https://boards.greenhouse.io/mux/) | USA, Europe | |
 |[Namecheap](https://www.namecheap.com/careers/openings/) | Anywhere | |
 |[Nana](https://boards.greenhouse.io/nanatechnologies) | USA | |
@@ -261,6 +266,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Platform.sh](https://platform.sh/company/careers/job/) | Anywhere |  |
 |[Plectica](https://www.plectica.com/jobs) | USA | |
 |[Pleo](https://boards.greenhouse.io/pleo/) | Europe, USA | Anywhere between the east coast of the Americas to European time zones. |
+|[Plotly](https://boards.greenhouse.io/plotly) | USA, Canada | |
 |[Podium](https://boards.greenhouse.io/podium81) | USA, Canada | |
 |[Policygenius](https://www.policygenius.com/careers/job/) | USA | |
 |[Polly](https://boards.greenhouse.io/polly) | USA, Canada, Pakistan | |
@@ -292,6 +298,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Root](https://inc.joinroot.com/careers/#view-all-openings) | USA | |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site) | USA, Canada, India, Argentina | |
 |[SalesLoft](https://salesloft.com/careers/) | USA, Mexico, UK | |
+|[Sanity](https://www.sanity.io/careers#openPositions) | USA, Europe | Also has offices in San Francisco & Oslo, Norway. |
 |[Scribd](https://jobs.lever.co/scribd/) | USA, Canada | Primary residence must be: AR, CA, CO, DE, DC, FL, HI, IA, MA, MI, MO, NV, NJ, NY, OH, OR, TN, TX, UT, VT, WA, Ontario (Canada), British Columbia (Canada). |
 |[SeatGeek](https://seatgeek.com/jobs) | USA | |
 |[Section](https://www.section.io/about/careers/) | USA | |
@@ -373,5 +380,6 @@ A big list of companies that are hiring software developers that can work remote
 |[Yelp](https://jobs.lever.co/yelp/) | USA, Canada | |
 |[Yeti](https://yeti.co/jobs/) | Anywhere | |
 |[Yik Yak](https://yikyak.com/careers) | USA | |
+|[Yottled](https://yottled.notion.site/Careers-d3ec93fbe2d14dbdb802b94c1794000e) | Anywhere | |
 |[Zoom](https://careers.zoom.us/jobs/search) | USA, Europe | |
 |[Zwift](https://www.zwift.com/careers) | USA | |
