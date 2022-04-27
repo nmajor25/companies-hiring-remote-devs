@@ -114,7 +114,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Dropbox](https://www.dropbox.com/jobs/all-jobs) | USA, Canada, Ireland | |
 |[DuckDuckGo](https://duckduckgo.recruitee.com/) | Anywhere | |
 |[Dutchie](https://dutchie.com/careers) | Anywhere | |
-|[Eaze](https://jobs.lever.co/eaze/) | USA | Has offices in San Francisco and Los Angeles, but engineering organization is fully distributed across the United States! |
+|[Eaze](https://jobs.lever.co/eaze/) | USA | Offices in San Francisco and Los Angeles, but engineering organization is fully distributed across the USA. |
 |[eBay](https://jobs.ebayinc.com/search-jobs) | USA | Excludes New Mexico, Colorado, Hawaii. |
 |[Elastic](https://jobs.elastic.co/#/) | USA, Canada, EMEA, Europe | |
 |[Encamp](https://encamp.com/job-list/) | Anywhere | |
