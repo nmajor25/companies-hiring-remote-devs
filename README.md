@@ -50,9 +50,8 @@ A big list of companies that are hiring software developers that can work remote
 |[Boulevard](https://jobs.lever.co/boulevard/) | Anywhere | |
 |[Boundless](https://careers.boundless.com/careers/) | USA, Canada | |
 |[Bounteous](https://jobs.lever.co/bounteous) | USA, Canada, Mexico | |
-|[Boxed](https://boards.greenhouse.io/boxedwholesale/) | USA | |
 |[Bractlet](https://bractlet.com/careers/) | USA | |
-|[Brainly](https://careers.brainly.com/open-positions) | Europe | Poland, Barcelona, or Spain |
+|[Brainly](https://careers.brainly.com/open-positions) | Europe | Poland, Barcelona, or Spain. |
 |[Brave](https://brave.com/careers/) | Anywhere | |
 |[Brex](https://www.brex.com/careers/#jobsBoard) | USA, Canada, Brazil | |
 |[Brightwheel](https://jobs.lever.co/brightwheel) | USA | |
