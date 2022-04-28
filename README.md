@@ -8,11 +8,11 @@ A big list of companies that are hiring software developers that can work remote
 
 | Company  |  Region |  Additional Info |
 |---|---|-------------|
-|[0x](https://boards.greenhouse.io/0x) | Anywhere |  |
-|[15Five](https://jobs.lever.co/15five) | USA | |
-|[3Box Labs](https://jobs.lever.co/3box/) | Anywhere | |
+|[0x](https://boards.greenhouse.io/0x) | Anywhere | Remote-first and fully distributed company, with team members located across all continents besides Antarctica. |
+|[15Five](https://jobs.lever.co/15five) | USA | Hybrid culture that supports a remote-first workplace balanced with distributed office hubs. |
+|[3Box Labs](https://jobs.lever.co/3box/) | Anywhere | Work from anywhere with good WiFi and ability to join a 4:30 CET daily standup. |
 |[ABOUT YOU](https://corporate.aboutyou.de/en/departments/tech) | Europe | |
-|[Acala](https://jobs.lever.co/acala) | Anywhere | |
+|[Acala](https://jobs.lever.co/acala) | Anywhere | Flexible working hours within Pacific timezones. |
 |[Acorns](https://www.acorns.com/career-opportunities/) | USA | This role has the option to be remote or based in their Irvine, CA or New York, NY offices. |
 |[Addepar](https://boards.greenhouse.io/addepar1/) | USA | Global flexible workforce model with offices in Silicon Valley, New York City, Salt Lake City and Edinburgh, Scotland. |
 |[Administrate](https://administrate.hirehive.com/) | Ireland, UK, USA | |
