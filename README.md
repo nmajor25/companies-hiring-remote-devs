@@ -14,16 +14,16 @@ A big list of companies that are hiring software developers that can work remote
 |[ABOUT YOU](https://corporate.aboutyou.de/en/departments/tech) | Europe | |
 |[Acala](https://jobs.lever.co/acala) | Anywhere | |
 |[Acorns](https://www.acorns.com/career-opportunities/) | USA | This role has the option to be remote or based in their Irvine, CA or New York, NY offices. |
-|[Addepar](https://boards.greenhouse.io/addepar1/) | USA | |
+|[Addepar](https://boards.greenhouse.io/addepar1/) | USA | Global flexible workforce model with offices in Silicon Valley, New York City, Salt Lake City and Edinburgh, Scotland. |
 |[Administrate](https://administrate.hirehive.com/) | Ireland, UK, USA | |
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced) | USA | |
 |[Adyen](https://careers.adyen.com/vacancies?locations=Remote&teams=Development) | USA | |
-|[Affirm](https://boards.greenhouse.io/affirm/) | USA | |
+|[Affirm](https://boards.greenhouse.io/affirm/) | USA | [Remote-first company](https://www.linkedin.com/pulse/new-ways-we-work-jude-komuves/). |
 |[Aha!](https://www.aha.io/company/careers/current-openings) | North & South America | |
 |[Airship](https://jobs.lever.co/airship) | USA, Europe | |
 |[Alchemy](https://jobs.lever.co/alchemy) | USA | |
-|[Algolia](https://www.algolia.com/careers/) | Americas, EMEA | |
-|[Almanac](https://almanac.homerun.co/) | Anywhere | |
+|[Algolia](https://www.algolia.com/careers/) | Americas, EMEA | Hybrid remote workplace strategy. Physical offices in San Francisco, NYC, Atlanta, Paris, London, Bucharest. |
+|[Almanac](https://almanac.homerun.co/) | Anywhere | Work from anywhere in the world. Gather a few times every year for retreats and co-working weeks. |
 |[Anvyl](https://apply.workable.com/anvyl/) | USA | |
 |[App Academy](https://jobs.lever.co/appacademy/) | USA | |
 |[Appcues](https://jobs.lever.co/appcues-2/) | Anywhere | |
@@ -54,7 +54,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Bractlet](https://bractlet.com/careers/) | USA | |
 |[Brainly](https://careers.brainly.com/open-positions) | Europe | Poland, Barcelona, or Spain |
 |[Brave](https://brave.com/careers/) | Anywhere | |
-|[Brex](https://www.brex.com/careers/#jobsBoard) | USA, Canada, Brazil,  | |
+|[Brex](https://www.brex.com/careers/#jobsBoard) | USA, Canada, Brazil | |
 |[Brightwheel](https://jobs.lever.co/brightwheel) | USA | |
 |[Built In](https://boards.greenhouse.io/builtin) | USA | |
 |[Bunny.net](https://bunny.net/careers#accordionFAQ) | Anywhere | |
