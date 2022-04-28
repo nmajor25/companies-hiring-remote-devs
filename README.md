@@ -95,7 +95,7 @@ A big list of companies that are hiring software developers that can work remote
 |[ConsenSys](https://consensys.net/open-roles/) | Anywhere | |
 |[Contra](https://jobs.lever.co/contra) | Anywhere | |
 |[ConvertKit](https://convertkit.com/careers) | USA | Work primarily in USA time zones. |
-|[Copper](https://jobs.lever.co/copper/) | USA | USA, Canada, UK |
+|[Copper](https://jobs.lever.co/copper/) | USA, Canada |  |
 |[Covera Health](https://www.coverahealth.com/careers) | Anywhere | |
 |[Cribl](https://cribl.io/job-detail/) | USA, Canada | |
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | USA, Canada, Australia, Europe, India | |
