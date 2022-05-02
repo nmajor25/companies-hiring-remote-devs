@@ -83,7 +83,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Check](https://www.checkhq.com/company/open-roles) | USA | |
 |[Chipper](https://boards.greenhouse.io/criticalideas) | USA, Europe | |
 |[Circle](https://www.circle.com/en/careers) | Anywhere | |
-|[CivicAction](https://civicactions.com/careers/#open-positions) | USA | |
+|[CivicAction](https://civicactions.com/careers/#open-positions) | USA, Canada | |
 |[ClassDojo](https://boards.greenhouse.io/classdojo/) | USA | |
 |[Cleo](https://boards.greenhouse.io/cleoai/) | UK | |
 |[Clever](https://clever.com/about/careers#career-listing) | USA | |
@@ -98,7 +98,7 @@ A big list of companies that are hiring software developers that can work remote
 |[CodeSignal](https://boards.greenhouse.io/codesignal/) | Anywhere | |
 |[Coinbase](https://www.coinbase.com/careers/positions) | USA, Canada, Brazil, India, Ireland, Singapore, Israel | |
 |[Coinlist](https://boards.greenhouse.io/coinlist/) | USA | |
-|[Coinme]() | USA, Canada, LATAM | |
+|[Coinme](https://boards.greenhouse.io/coinme) | USA, Canada, LATAM | |
 |[Collibra](https://www.collibra.com/us/en/company/careers#find-jobs) | USA, Europe | |
 |[Community](https://apply.workable.com/community-2/) | North America, Europe | |
 |[Confluent](https://jobs.lever.co/confluent/) | USA, Europe, India | |
@@ -357,7 +357,7 @@ A big list of companies that are hiring software developers that can work remote
 |[SpiderOak](https://spideroakandms.applytojob.com/apply) | USA | |
 |[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html) | USA | |
 |[Spotify](https://www.lifeatspotify.com/jobs) | Americas, APAC, EMEA | |
-|[Spreedly](https://jobs.lever.co/spreedly/) | USA | States not supported: CA, NY, HI, AK |
+|[Spreedly](https://jobs.lever.co/spreedly/) | USA | States not supported: CA, NY, HI, AK. |
 |[Spring](https://apply.workable.com/spring-for-creators/) | USA | |
 |[Square](https://careers.smartrecruiters.com/Square/?remoteLocation=true) | USA, Canada | |
 |[Squarespace](https://www.squarespace.com/careers/engineering) | USA | |
@@ -382,7 +382,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Telnyx](https://boards.greenhouse.io/telnyx54/) | USA, EMEA, Brazil | |
 |[Tempo](https://www.tempo.io/open-positions) | North America | |
 |[Tenable](https://careers.tenable.com/jobs/search) | USA | |
-|[Tessian](https://jobs.lever.co/tessian) | Europe | Within 2 hours of GMT. No remote for candidates with less than 12-18 months experience). |
+|[Tessian](https://jobs.lever.co/tessian) | Europe | Within 2 hours of GMT. No remote for candidates with less than 12-18 months experience. |
 |[Textio](https://textio.com/careers/) | USA | Supported states: CA, CO, HI, IL, MA, NY, OR, TX and WA. |
 |[The Athletic](https://jobs.lever.co/theathletic) | USA, Canada, Australia | |
 |[The Zebra](https://www.thezebra.com/about/careers/#job-listings) | USA | Support employees who want to be fully remote, in-office only, and a mix of the two. States not supported: CA, MA. |
