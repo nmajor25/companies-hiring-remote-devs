@@ -39,6 +39,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Automattic](https://automattic.com/work-with-us/) | Anywhere | |
 |[Babylist](https://boards.greenhouse.io/babylist) | USA | |
 |[Balena](https://apply.workable.com/balena/) | Anywhere | |
+|[Basis Technologies](https://jobs.lever.co/centro/?team=Engineering) | USA, Canada | |
 |[BEAT](https://thebeat.co/en/careers/) | Europe | |
 |[Benchling](https://www.benchling.com/careers/#openings) | USA | |
 |[BentoBox](https://getbento.com/careers/) | USA | |
@@ -73,7 +74,6 @@ A big list of companies that are hiring software developers that can work remote
 |[CareRev](https://boards.greenhouse.io/carerev) | USA | |
 |[Catalyst](https://catalyst.io/job-post) | USA | |
 |[Celo](https://jobs.lever.co/clabs/e6d4c60b-eb2f-40b5-b3ac-5fe5024101b5) | Anywhere | |
-|[Basis Technologies](https://jobs.lever.co/centro/?team=Engineering) | USA, Canada | |
 |[Ceros](http://labs.ceros.com/jobs/#/) | USA | |
 |[Chainlink](https://jobs.lever.co/chainlink/) | Anywhere | |
 |[Chalkboard](https://usechalkboard.com/careers#rt-jobs-1) | Europe | |
