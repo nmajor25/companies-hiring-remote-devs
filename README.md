@@ -31,7 +31,8 @@ A big list of companies that are hiring software developers that can work remote
 |[App Academy](https://jobs.lever.co/appacademy/) | USA | |
 |[Appcues](https://jobs.lever.co/appcues-2/) | Anywhere | |
 |[Ark](https://ark.io/careers) | Anywhere | Preference for developers that can work CET hours. |
-|[Articulate](https://boards.greenhouse.io/articulate) | USA |  |
+|[Articulate](https://boards.greenhouse.io/articulate) | USA | |
+|[Atlassian](https://jobs.lever.co/atlassian) | USA, India, Australia, Turkey, Poland | |
 |[Aspiration](https://jobs.lever.co/aspiration-2/) | USA | |
 |[Assurance](https://jobs.lever.co/assurance/) | USA, Canada | |
 |[Audius](https://jobs.lever.co/audius) | USA | |
@@ -106,6 +107,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Contra](https://jobs.lever.co/contra) | Anywhere | |
 |[ConvertKit](https://convertkit.com/careers) | USA | Work primarily in USA time zones. |
 |[Copper](https://jobs.lever.co/copper/) | USA, Canada |  |
+|[Coursera](https://about.coursera.org/careers/jobs/) | USA, Canada, India |  |
 |[Covera Health](https://www.coverahealth.com/careers) | Anywhere | |
 |[Cribl](https://cribl.io/job-detail/) | USA, Canada | |
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | USA, Canada, Australia, Europe, India | |
@@ -144,6 +146,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Fabric](https://boards.greenhouse.io/fabric83) | USA | |
 |[Meta](https://www.metacareers.com/jobs) | USA, Canada, Europe | |
 |[Facet Wealth](https://facetwealth.applytojob.com/) | USA, Canada | |
+|[FanDuel](https://www.fanduel.com/open-positions) | USA, UK | |
 |[Farmstead](https://boards.greenhouse.io/farmstead) | North America | |
 |[Fast Radius](https://jobs.lever.co/fastradius/) | USA | States: AL, AZ, CA, CO, CT, FL, GA, IL, IN, IA, KS, KY, MA, MD, MI, MN, NH, NJ, NY, NC, OH, OR, TN, TX, WA, WV, WI. |
 |[Fastly](https://www.fastly.com/about/careers/current-openings) | USA, Europe | |
@@ -239,12 +242,14 @@ A big list of companies that are hiring software developers that can work remote
 |[Limeade](https://boards.greenhouse.io/limeade/) | USA, Canada | |
 |[Lingokids](https://jobs.lingokids.com/) | Europe | Within +/- 2 hours of the CET timezone. |
 |[Listrak](https://www.listrak.com/careers/open-positions) | USA | |
+|[Litmus](https://www.litmus.com/careers/) | USA, UK | |
 |[Livepeer](https://livepeer.com/jobs) | Anywhere | |
 |[Livestorm](https://jobs.livestorm.co) | France | |
 |[LogDNA](https://boards.greenhouse.io/logdna/) | USA | |
 |[LogRocket](https://jobs.lever.co/logrocket) | USA | |
 |[Loom](https://jobs.lever.co/useloom/) | USA, Canada | |
 |[Lucid](https://jobs.lever.co/lucid/) | USA, UK | |
+|[Lyft](https://www.lyft.com/careers#openings) | USA, Mexico | |
 |[Magic Lab](https://magic.link/careers#roles) | Anywhere | Prefer overlap with North America timezones. |
 |[Magic Leap](https://boards.greenhouse.io/magicleapinc) | USA | |
 |[Mailchimp](https://mailchimp.com/jobs/) | USA | |
@@ -345,6 +350,8 @@ A big list of companies that are hiring software developers that can work remote
 |[Shippo](https://jobs.lever.co/goshippo/) | USA | |
 |[Shopify](https://www.shopify.com/careers) | Americas, EMEA, Asia | |
 |[Shortcut](https://boards.greenhouse.io/shortcut) | USA, Canada | |
+|[Signal](https://signal.org/workworkwork/) | USA | USA timezones. |
+|[SignalWire](https://signalwire.com/company/careers) | Anywhere | |
 |[SingleStore](https://boards.greenhouse.io/singlestore/) | USA | |
 |[Sisense](https://www.sisense.com/careers/#job-positions-table) | USA | |
 |[Sketch](https://www.sketch.com/careers/#job-openings) | Europe, Africa, USA | |
@@ -403,6 +410,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Typeform](https://www.typeform.com/careers/engineering-19389/) | Europe | |
 |[UpLift](https://boards.greenhouse.io/joinuplift) | USA | |
 |[Upstart](https://www.upstart.com/careers/open-roles) | USA | |
+|[Upwork](https://www.upwork.com/careers/jobs/explore) | USA | Only supports 15 states: AR, CA, FL, GA, IL, MD, MA, MI, MN, PA, TE, TX, WA. |
 |[Vault](https://boards.greenhouse.io/vault) | USA | |
 |[Vercel](https://vercel.com/careers) | Anywhere | |
 |[Verys](https://verys.catsone.com/careers/) | USA | |
