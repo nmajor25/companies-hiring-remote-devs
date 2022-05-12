@@ -242,7 +242,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Limeade](https://boards.greenhouse.io/limeade/) | USA, Canada | |
 |[Lingokids](https://jobs.lingokids.com/) | Europe | Within +/- 2 hours of the CET timezone. |
 |[Listrak](https://www.listrak.com/careers/open-positions) | USA | |
-|[Litmus](https://www.litmus.com/careers/) | USA, UK | |
+|[Litmus](https://www.litmus.com/careers/#current-openings) | USA, UK | |
 |[Livepeer](https://livepeer.com/jobs) | Anywhere | |
 |[Livestorm](https://jobs.livestorm.co) | France | |
 |[LogDNA](https://boards.greenhouse.io/logdna/) | USA | |
