@@ -172,7 +172,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Fanatics](https://jobs.lever.co/fanatics) | USA | |
 |[FanDuel](https://www.fanduel.com/open-positions) | USA, UK | |
 |[Farmstead](https://boards.greenhouse.io/farmstead) | North America | |
-|[Fast](https://jobs.lever.co/fast) | USA, UK, Australia,  | |
+|[Fast](https://jobs.lever.co/fast) | USA, UK, Australia | |
 |[Fast Radius](https://jobs.lever.co/fastradius/) | USA | States: AL, AZ, CA, CO, CT, FL, GA, IL, IN, IA, KS, KY, MA, MD, MI, MN, NH, NJ, NY, NC, OH, OR, TN, TX, WA, WV, WI. |
 |[Fastly](https://www.fastly.com/about/careers/current-openings) | USA, Europe | |
 |[Feather](https://apply.workable.com/feather/) | USA | |
