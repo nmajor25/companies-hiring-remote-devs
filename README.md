@@ -40,6 +40,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Audius](https://jobs.lever.co/audius) | USA | |
 |[Auth0](https://auth0.com/careers/positions) | USA, Canada, UK, Spain, France | |
 |[Automattic](https://automattic.com/work-with-us/) | Anywhere | |
+|[AvantStay](https://boards.greenhouse.io/avantstay/) | USA | Headquarters: Los Angeles, CA. |
 |[Babylist](https://boards.greenhouse.io/babylist) | USA | |
 |[Balena](https://apply.workable.com/balena/) | Anywhere | |
 |[Basis Technologies](https://jobs.lever.co/centro/?team=Engineering) | USA, Canada | |
@@ -56,6 +57,8 @@ A big list of companies that are hiring software developers that can work remote
 |[Bitfinex](https://bitfinex.recruitee.com/) | Anywhere | |
 |[Bitovi](https://bitovi.applytojob.com/apply/) | USA, Canada | |
 |[BitPay](https://bitpay.applytojob.com/apply/jobs) | USA | |
+|[Blacksmith Agency](https://blacksmith.agency/about#careers) | USA, Canada | Headquarters: Phoenix, AZ. |
+|[BlueLabs](https://www.bluelabs.eu/#recruitee-careers) | Europe | |
 |[Blind](https://boards.greenhouse.io/teamblind) | USA, Canada | Pacific time zone. |
 |[Blockchain.com](https://boards.greenhouse.io/blockchain) | USA, Europe, Asia | |
 |[Blockstream](https://boards.greenhouse.io/blockstream) | Anywhere | |
@@ -79,6 +82,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Calm](https://boards.greenhouse.io/calm) | USA | |
 |[Cameo](https://boards.greenhouse.io/cameo/) | USA | |
 |[Canny](https://jobs.canny.io) | Anywhere | |
+|[Captivate IQ](https://www.captivateiq.com/careers#Open-Positions) | Anywhere | |
 |[CareRev](https://boards.greenhouse.io/carerev) | USA | |
 |[Catalyst](https://catalyst.io/job-post) | USA | |
 |[Celer](https://www.celer.network/career) | Anywhere |  |
@@ -101,6 +105,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Clever](https://clever.com/about/careers#career-listing) | USA | |
 |[Clevertech](https://www.clevertech.biz/jobs) | Anywhere | |
 |[ClickUp](https://clickup.com/careers) | Anywhere | |
+|[Clipboard Health](https://boards.greenhouse.io/clipboardhealth) | Anywhere | |
 |[Close](https://jobs.lever.co/close.io) | Anywhere | |
 |[CloudBees](https://www.cloudbees.com/careers/job) | USA, India, EMEA, Europe, Australia | |
 |[Clubhouse](https://jobs.lever.co/clubhouse) | USA | |
@@ -148,12 +153,14 @@ A big list of companies that are hiring software developers that can work remote
 |[DuckDuckGo](https://duckduckgo.recruitee.com/) | Anywhere | |
 |[Dutchie](https://dutchie.com/careers) | Anywhere | |
 |[DUOS](https://boards.greenhouse.io/duos) | USA | |
+|[EasyPost](https://jobs.lever.co/easypost-2/?department=Engineering) | USA | |
 |[Eaze](https://jobs.lever.co/eaze/) | USA | Offices in San Francisco and Los Angeles, but engineering organization is fully distributed across the USA. |
 |[eBay](https://jobs.ebayinc.com/search-jobs) | USA | Excludes New Mexico, Colorado, Hawaii. |
 |[Elastic](https://jobs.elastic.co/#/) | USA, Canada, EMEA, Europe | |
 |[Encamp](https://encamp.com/job-list/) | Anywhere | |
 |[Enigma](https://airtable.com/shrptg7c6Oo9ZxKEO) | Anywhere | |
 |[Enjin](https://enjin.io/careers#positions) | Anywhere | |
+|[EqipmentShare](https://www.equipmentshare.com/careers/openings) | USA | Office locations: Kansas City, MO & Columbia, MO. |
 |[Ergatta](https://jobs.lever.co/ergatta) | USA | |
 |[Etsy](https://careers.etsy.com/global/en/c/engineering-jobs) | USA | Open to remote hires from all USA states except Hawaii and Alaska. |
 |[Evernote](https://evernote.com/careers/job/) | USA | |
@@ -165,6 +172,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Fanatics](https://jobs.lever.co/fanatics) | USA | |
 |[FanDuel](https://www.fanduel.com/open-positions) | USA, UK | |
 |[Farmstead](https://boards.greenhouse.io/farmstead) | North America | |
+|[Fast](https://jobs.lever.co/fast) | USA, UK, Australia,  | |
 |[Fast Radius](https://jobs.lever.co/fastradius/) | USA | States: AL, AZ, CA, CO, CT, FL, GA, IL, IN, IA, KS, KY, MA, MD, MI, MN, NH, NJ, NY, NC, OH, OR, TN, TX, WA, WV, WI. |
 |[Fastly](https://www.fastly.com/about/careers/current-openings) | USA, Europe | |
 |[Feather](https://apply.workable.com/feather/) | USA | |
@@ -174,6 +182,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Figure](https://www.figure.com/careers#Careers-Open-Roles) | USA | |
 |[FINN](https://jobs.lever.co/finn.auto) | Europe | Munich office or remotely ±3 hours of the Munich time zone (CET/CEST). |
 |[Fivestars](https://www.fivestars.com/careers/) | USA | |
+|[Flashpoint](https://flashpoint.io/about-us/careers/#open-positions) | USA | |
 |[FlightRadar24](https://careers.flightradar24.com/) | Europe | Be located within a 3-hour time difference from Central European Time (CET/CEST). |
 |[Flock Safety](https://www.flocksafety.com/careers/openings) | USA | |
 |[Flowspace](https://jobs.lever.co/flowspace/) | USA | Not approved to hire with visa sponsorship requirements. |
@@ -204,6 +213,7 @@ A big list of companies that are hiring software developers that can work remote
 |[GoFundMe](https://boards.greenhouse.io/gofundme) | Anywhere | |
 |[Google](https://careers.google.com) | USA, Europe, India | |
 |[Gopuff](https://gopuff.com/go/careers) | USA | |
+|[Gordian](https://www.gordiansoftware.com/careers) | USA | [Hybrid company](https://www.gordiansoftware.com/news/seven-plus-one). |
 |[Gorgias](https://jobs.lever.co/gorgias/) | USA, Europe | |
 |[Grammarly](https://www.grammarly.com/jobs/technology) | USA, Europe, Canada | |
 |[Graylog](https://jobs.lever.co/graylog/) | USA, Europe | |
@@ -223,6 +233,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Hipcamp](https://jobs.lever.co/hipcamp) | USA, Canada | |
 |[Hiro](https://jobs.lever.co/hiro/) | Anywhere | |
 |[Hologram](https://www.hologram.io/careers#current-openings) | USA | |
+|[Homebound](https://www.homebound.com/careers) | USA | |
 |[Homelister](https://jobs.lever.co/homelister?team=Engineering%20Team) | USA | Also have physical offices in New York City & Santa Monica. |
 |[Honor](https://www.joinhonor.com/honor-careers/?rdrFrom=/careers#joblist) | USA | Offices: San Francisco & Austin. |
 |[Hopper](https://jobs.lever.co/hopper/) | USA | |
@@ -246,6 +257,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Invitae](https://www.invitae.com/en/careers/search) | USA | Several office locations throughout USA. |
 |[IOTA Foundation](https://iota.bamboohr.com/jobs/) | Germany | |
 |[IOV Labs](https://jobs.lever.co/iovlabs) | Anywhere | |
+|[iTech Media](https://itech.media/search) | UK | |
 |[Iterable](https://iterable.com/careers/#grnhse_app) | Anywhere | Offices in San Francisco, New York, Denver, London. |
 |[Iterative](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22) | Anywhere | Team is distributed remotely worldwide. |
 |[Jelli](https://www.jelli.com/careers/) | USA | |
@@ -259,6 +271,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Keeper](https://apply.workable.com/keepersecurity/#jobs) | USA | |
 |[Khan Academy](https://boards.greenhouse.io/khanacademy/) | USA, Canada | |
 |[Kickstarter](https://jobs.lever.co/kickstarter) | USA, UK, Canada | USA States: CA, CT, FL, GA, MA, MD, NC, NJ, NY, OR, VA, and WA. |
+|[Kin Insurance](https://boards.greenhouse.io/kininsurance) | USA | Offices: Chicago, IL & St. Petersburg, FL. |
 |[Kinsta](https://kinsta.com/careers/) | Anywhere | |
 |[Knack](https://www.knack.com/careers) | Anywhere | |
 |[Kong](https://jobs.lever.co/kong/) | USA, EMEA | |
@@ -282,6 +295,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Loom](https://jobs.lever.co/useloom/) | USA, Canada | |
 |[Lucid](https://jobs.lever.co/lucid/) | USA, UK | |
 |[Lyft](https://www.lyft.com/careers#openings) | USA, Mexico | |
+|[Madhive](https://boards.greenhouse.io/madhive/) | USA | |
 |[Magic Lab](https://magic.link/careers#roles) | Anywhere | Prefer overlap with North America timezones. |
 |[Magic Leap](https://boards.greenhouse.io/magicleapinc) | USA | |
 |[Mailchimp](https://mailchimp.com/jobs/) | USA | |
@@ -289,12 +303,15 @@ A big list of companies that are hiring software developers that can work remote
 |[Marqeta](https://www.marqeta.com/company/careers/all-jobs) | USA | |
 |[Massa](https://massa.net/careers/) | Europe | |
 |[Mastery](http://mastery.hrmdirect.com/employment/job-openings.php?search=true&) | USA | |
+|[Mattermost](https://jobs.lever.co/mattermost/?location=Remote) | USA, Australia, India, Europe, Asia, South America, Mexico | |
 |[MedArrive](https://www.medarrive.com/about/careers/#openings) | USA | |
+|[Mediavine](https://apply.workable.com/mediavine/) | USA | |
 |[Medium](https://jobs.lever.co/medium) | USA | |
 |[MEGA](https://careers.mega.nz) | Europe, New Zealand, APAC | Fully remote and hybrid options. Offices in New Zealand and Spain. |
 |[Mercari](https://www.mercari.com/careers/) | USA | |
 |[MessageBird](https://messagebird.com/en/careers/?jobs=engineering) | EMEA, LATAM | |
 |[MetaLab](https://boards.greenhouse.io/metalab/) | Anywhere | Within +/- 4 hours of the PST timezone. |
+|[Modern Health](https://boards.greenhouse.io/modernhealth) | USA | |
 |[Modus Create](https://moduscreate.com/careers/) | USA, LATAM, Europe | Must overlap with EST timezone. |
 |[Momentive](https://www.momentive.ai/en/careers/dept/engineering/) | North America, Europe, APAC | |
 |[MongoDB](https://www.mongodb.com/careers/positions) | North America, Brazil, Europe, India, APAC, USA | |
@@ -317,12 +334,14 @@ A big list of companies that are hiring software developers that can work remote
 |[NS1](https://ns1.com/careers) | USA | |
 |[NTWRK](https://jobs.lever.co/thentwrk/) | USA | |
 |[Oasis](https://recruitcrm.io/jobs/Oasis_Protocol_Foundation_jobs) | Anywhere | Europe timezone preferred. |
+|[Ockam](https://www.ockam.io/team#open-roles) | Anywhere | Headquarters: San Francisco, CA. |
 |[Ocrolus](https://boards.greenhouse.io/ocrolusinc/) | USA | |
 |[Offchain Labs](https://jobs.lever.co/offchainlabs) | Anywhere | |
 |[Okta](https://www.okta.com/company/careers/#careers-job-postings) | USA, Canada, UK, Spain | |
 |[Olo](https://jobs.lever.co/olo/) | USA | |
 |[OOZOU](https://oozou.com/careers#positions) | Asia | Office located in Bangkok, Thailand. |
 |[Opendoor](https://jobs.lever.co/opendoor/) | USA, Canada | |
+|[OpenSea](https://jobs.lever.co/OpenSea) | USA | Support remote, hybrid or onsite work at either New York City, San Francisco or the Silicon Valley. |
 |[Outschool](https://jobs.lever.co/outschool) | USA, Canada | |
 |[Pacaso](https://boards.greenhouse.io/pacaso) | USA | |
 |[Paddle](https://www.paddle.com/careers#open-positions) | Anywhere | Offices in London & New York. |
@@ -340,7 +359,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Pitch](https://boards.greenhouse.io/pitch/) | Anywhere | |
 |[Plaid](https://plaid.com/careers/openings/) | USA, Canada | |
 |[Platform.sh](https://platform.sh/company/careers/job/) | Anywhere |  |
-|[Plectica](https://www.plectica.com/jobs) | USA | |
+|[Plectica](https://www.plectica.com/jobs) | USA | Headquarters: New York, NY. |
 |[Pleo](https://boards.greenhouse.io/pleo/) | Europe, USA | Anywhere between the east coast of the Americas to European time zones. |
 |[Plotly](https://boards.greenhouse.io/plotly) | USA, Canada | |
 |[PocketWorlds](https://jobs.lever.co/pocketworlds) | Anywhere | |
@@ -349,6 +368,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Polly](https://boards.greenhouse.io/polly) | USA, Canada, Pakistan | |
 |[PostHog](https://apply.workable.com/posthog/) | USA, Europe | Team is distributed between GMT-8 and GMT+2. |
 |[Postman](https://www.postman.com/company/careers/open-positions/) | India, Europe, USA | |
+|[Postscript](https://postscript.io/careers#grnhse_app) | North America | |
 |[Powernoodle](https://www.powernoodle.com/careers) | Canada | |
 |[Proof](https://www.proofserve.com/careers#positions) | USA | |
 |[Protocol Labs](https://boards.greenhouse.io/protocollabs) | Anywhere | |
@@ -374,10 +394,12 @@ A big list of companies that are hiring software developers that can work remote
 |[Rippling](https://www.rippling.com/careers#openings) | USA, Europe | |
 |[Risk Focus](https://apply.workable.com/risk-focus-global/) | USA | |
 |[Ro](https://jobs.lever.co/ro/) | USA, Canada | |
+|[Robin](https://jobs.lever.co/robinpowered) | USA | Headquarters: Boston, MA. |
 |[Rolla](https://jobs.lever.co/QuantLabs) | Anywhere | |
 |[Rollbar](https://jobs.lever.co/rollbar) | USA | |
 |[Roofstock](https://jobs.lever.co/roofstock) | USA, Canada | |
 |[Root](https://inc.joinroot.com/careers/#view-all-openings) | USA | |
+|[Sailpoint](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs) | USA, Canada, Mexico | |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site) | USA, Canada, India, Argentina | |
 |[SalesLoft](https://salesloft.com/careers/) | USA, Mexico, UK | |
 |[Sanity](https://www.sanity.io/careers#openPositions) | USA, Europe | Also has offices in San Francisco & Oslo, Norway. |
@@ -393,6 +415,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Sendwave](https://boards.greenhouse.io/sendwaveapp) | USA, Belgium, Canada, France, Germany, Kenya, Poland, Senegal, UK | |
 |[ServiceTitan](https://www.servicetitan.com/job-openings) | USA, Canada, Poland, Brazil | |
 |[SFOX](https://www.sfox.com/jobs/) | USA | |
+|[ShipBob](https://www.shipbob.com/careers/#positions) | USA, India | Headquarters: Chicago, IL. |
 |[Shippo](https://jobs.lever.co/goshippo/) | USA | |
 |[Shipwell](https://shipwell.com/job-opening-page/) | USA | Headquarters in Austin, TX. |
 |[Shopify](https://www.shopify.com/careers) | Americas, EMEA, Asia | |
@@ -405,7 +428,9 @@ A big list of companies that are hiring software developers that can work remote
 |[Skillshare](https://jobs.lever.co/skillshare) | USA, South America | |
 |[SmartRent](https://smartrent.com/careers/apply/) | USA | |
 |[Snackpass](https://boards.greenhouse.io/snackpass) | USA | |
+|[Snapdocs](https://boards.greenhouse.io/snapdocs) | USA | |
 |[Snyk](https://boards.greenhouse.io/snyk) | USA, Europe | |
+|[Socure](https://www.socure.com/company/careers#job_details) | USA, India | |
 |[Soundcloud](https://careers.soundcloud.com) | USA | |
 |[Spacemesh](https://spacemesh.io/careers/) | Anywhere | A flat and fully remote structure, with team members in The United States, Italy, Ukraine, Israel, Germany, India, Taiwan, and more |
 |[SpiderOak](https://spideroakandms.applytojob.com/apply) | USA | |
@@ -418,6 +443,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Squire](https://boards.greenhouse.io/squire) | USA | |
 |[Stable](https://www.usestable.com/careers) | USA | USA timezones (GMT-5 to GMT-10) |
 |[Staked](https://staked.freshteam.com/jobs/) | Anywhere | |
+|[Standard AI](https://careers.standard.ai/#open-positions) | USA, Europe | |
 |[Stash](https://www.stash.com/careers/job) | USA, UK | |
 |[Status](https://jobs.status.im) | Anywhere | |
 |[Stellar](https://boards.greenhouse.io/stellar) | USA, Canada | |
@@ -430,6 +456,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Superhuman](https://superhuman.com/roles) | North America | |
 |[Superside](https://www.superside.com/career) | Anywhere | Team members from 50+ countries. |
 |[Sure](https://jobs.lever.co/sure/) | Anywhere | |
+|[Syncro](https://syncromsp.com/careers/) | USA, Canada | |
 |[Sysdig](https://sysdig.com/jobs/) | USA, EMEA, Europe, Serbia | |
 |[Talkdesk](https://www.talkdesk.com/careers/td#openings) | USA, Portugal, Singapore, Canada, Italy | |
 |[Tari](https://jobs.lever.co/tari/) | Anywhere | |
@@ -464,6 +491,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Upstart](https://www.upstart.com/careers/open-roles) | USA | |
 |[Upwork](https://www.upwork.com/careers/jobs/explore) | USA | Only supports 15 states: AR, CA, FL, GA, IL, MD, MA, MI, MN, PA, TE, TX, WA. |
 |[Vault](https://boards.greenhouse.io/vault) | USA | |
+|[Vendr](https://www.vendr.com/careers#open-roles) | USA, EMEA | |
 |[Vercel](https://vercel.com/careers) | Anywhere | |
 |[Verys](https://verys.catsone.com/careers/) | USA | |
 |[VideoAmp](https://videoamp.com/jobs/?dept=engineering) | USA | |
@@ -472,6 +500,7 @@ A big list of companies that are hiring software developers that can work remote
 |[VillageMD](https://www.villagemd.com/open-positions) | USA | |
 |[Virtualitics](https://virtualitics.breezy.hr/) | USA | Office space in Pasadena, CA, but are also open to fully remote candidates. |
 |[Visuary](https://angel.co/company/visuary) | Europe | |
+|[VMRay](https://www.vmray.com/careers/jobs/) | Europe | |
 |[Vowel](https://jobs.lever.co/vowel) | USA, Europe | |
 |[VSCO](https://boards.greenhouse.io/vsco39/) | USA | |
 |[WalletHub](https://wallethub.com/jobs/) | Anywhere | Requires an overlap with EST business hours. |
@@ -479,6 +508,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Web3 Foundation](https://web3.bamboohr.com/jobs/) | Anywhere | |
 |[Webflow](https://boards.greenhouse.io/webflow/) | USA | |
 |[Weedmaps](https://boards.greenhouse.io/weedmaps77) | USA | |
+|[Well Health](https://wellapp.com/careers/#open-positions) | USA, Hungary | Headquarters: Santa Barbara, CA. |
 |[WellSaid](https://www.notion.so/Careers-at-WellSaid-Labs-269591f538fd4666ba08ddebc0fc148e) | USA | |
 |[WeTransfer](https://jobs.lever.co/wetransfer/) | Europe, USA | |
 |[Whatnot](https://boards.greenhouse.io/whatnot) | North America | |
@@ -487,6 +517,7 @@ A big list of companies that are hiring software developers that can work remote
 |[When I Work](https://wheniwork.com/careers) | USA, Canada | Headquarted in Minneapolis, MN. |
 |[Whitespectre](https://www.whitespectre.com/careers/#current-openings) | Anywhere | |
 |[Wonderschool](https://boards.greenhouse.io/wonderschool) | Anywhere | |
+|[Workiva](https://workiva.wd1.myworkdayjobs.com/en-US/careers/jobs) | USA | |
 |[Workrise](https://www.workrise.com/careers/current-openings/) | USA | |
 |[Wyre](https://angel.co/company/sendwyre/jobs) | Anywhere | |
 |[Xapo](https://boards.greenhouse.io/xapo61) | Anywhere | |
