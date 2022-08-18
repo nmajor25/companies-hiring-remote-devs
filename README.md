@@ -34,6 +34,7 @@ A big list of companies that are hiring software developers that can work remote
 |[App Academy](https://jobs.lever.co/appacademy/) | USA | |
 |[Appcues](https://jobs.lever.co/appcues-2/) | Anywhere | |
 |[Appwrite](https://appwrite.io/company/careers#openings) | USA | Timezones: UTC+06:00 to UTC-06:00. |
+|[Aptible](https://boards.greenhouse.io/aptible) | USA | Timezones: PT to EST. |
 |[Ark](https://ark.io/careers) | Anywhere | Preference for developers that can work CET hours. |
 |[Articulate](https://boards.greenhouse.io/articulate) | USA | |
 |[Atlassian](https://jobs.lever.co/atlassian) | USA, India, Australia, Turkey, Poland | |
@@ -91,6 +92,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Canny](https://jobs.canny.io) | Anywhere | |
 |[Captivate IQ](https://www.captivateiq.com/careers#Open-Positions) | Anywhere | |
 |[CareRev](https://boards.greenhouse.io/carerev) | USA | |
+|[Casual](https://jobs.lever.co/causal-app) | USA, Europe | Timezones: EST to GMT+1. Offices: London & NYC. |
 |[Catalyst](https://catalyst.io/job-post) | USA | |
 |[Celer](https://www.celer.network/career) | Anywhere |  |
 |[Celo](https://jobs.lever.co/clabs/e6d4c60b-eb2f-40b5-b3ac-5fe5024101b5) | Anywhere | |
@@ -138,6 +140,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Cribl](https://cribl.io/job-detail/) | USA, Canada | |
 |[Crowdcast](https://crowdcast.notion.site/Join-Team-Crowdcast-112fa980fa404e4f9ae949a4c6d5c9f5) | Anywhere | |
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | USA, Canada, Australia, Europe, India | |
+|[Custom Ink](https://customink.wd5.myworkdayjobs.com/CustomInk) | USA |  |
 |[Daily](https://boards.greenhouse.io/daily/) | Anywhere | Team mostly resides in the US East and Central Europe timezones. |
 |[Datadog](https://www.datadoghq.com/jobs-engineering/) | USA, Europe | |
 |[DataGrail](https://boards.greenhouse.io/datagrail) | USA, Canada | Has an office in downtown San Francisco. |
@@ -321,6 +324,7 @@ A big list of companies that are hiring software developers that can work remote
 |[LogRocket](https://jobs.lever.co/logrocket) | USA | |
 |[Loom](https://jobs.lever.co/useloom/) | USA, Canada | |
 |[Lucid](https://jobs.lever.co/lucid/) | USA, UK | |
+|[Lunch Money](https://lunchmoney.app/hiring) | Anywhere | |
 |[Lyft](https://www.lyft.com/careers#openings) | USA, Mexico | |
 |[Madhive](https://boards.greenhouse.io/madhive/) | USA | |
 |[Magic Lab](https://magic.link/careers#roles) | Anywhere | Prefer overlap with North America timezones. |
@@ -370,6 +374,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Offchain Labs](https://jobs.lever.co/offchainlabs) | Anywhere | |
 |[Okta](https://www.okta.com/company/careers/#careers-job-postings) | USA, Canada, UK, Spain | |
 |[Olo](https://jobs.lever.co/olo/) | USA | |
+|[OneSignal](https://onesignal.com/careers#section-job) | USA, UK | Offices in San Mateo, CA & New York, NY. |
 |[OOZOU](https://oozou.com/careers#positions) | Asia | Office located in Bangkok, Thailand. |
 |[Opendoor](https://jobs.lever.co/opendoor/) | USA, Canada | |
 |[OpenSea](https://jobs.lever.co/OpenSea) | USA | Support remote, hybrid or onsite work at either New York City, San Francisco or the Silicon Valley. |
@@ -474,6 +479,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Sketch](https://www.sketch.com/careers/#job-openings) | Europe, Africa, USA | |
 |[Skilljar](https://boards.greenhouse.io/skilljar) | USA | |
 |[Skillshare](https://jobs.lever.co/skillshare) | USA, South America | |
+|[Smarking](https://jobs.lever.co/smarking/) | North America | |
 |[SmartRent](https://smartrent.com/careers/apply/) | USA | |
 |[Snackpass](https://boards.greenhouse.io/snackpass) | USA | |
 |[Snapdocs](https://boards.greenhouse.io/snapdocs) | USA | |
