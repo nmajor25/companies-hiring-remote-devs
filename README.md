@@ -113,6 +113,7 @@ A big list of companies that are hiring software developers that can work remote
 |[CivicAction](https://civicactions.com/careers/#open-positions) | USA, Canada | |
 |[Civis Analytics](https://boards.greenhouse.io/civisanalytics) | USA | |
 |[ClassDojo](https://boards.greenhouse.io/classdojo/) | USA | |
+|[Cleary](https://gocleary.com/careers/) | Americas | |
 |[Cleo](https://boards.greenhouse.io/cleoai/) | UK | |
 |[Clever](https://clever.com/about/careers#career-listing) | USA | |
 |[Clevertech](https://www.clevertech.biz/jobs) | Anywhere | |
@@ -140,6 +141,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Copper](https://jobs.lever.co/copper/) | USA, Canada |  |
 |[Coursera](https://about.coursera.org/careers/jobs/) | USA, Canada, India |  |
 |[Covera Health](https://www.coverahealth.com/careers) | Anywhere | |
+|[Credit Key](https://apply.workable.com/credit-key/) | USA | |
 |[Cribl](https://cribl.io/job-detail/) | USA, Canada | |
 |[Crowdcast](https://crowdcast.notion.site/Join-Team-Crowdcast-112fa980fa404e4f9ae949a4c6d5c9f5) | Anywhere | |
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | USA, Canada, Australia, Europe, India | |
@@ -197,6 +199,8 @@ A big list of companies that are hiring software developers that can work remote
 |[Fast Radius](https://jobs.lever.co/fastradius/) | USA | States: AL, AZ, CA, CO, CT, FL, GA, IL, IN, IA, KS, KY, MA, MD, MI, MN, NH, NJ, NY, NC, OH, OR, TN, TX, WA, WV, WI. |
 |[Fastly](https://www.fastly.com/about/careers/current-openings) | USA, Europe | |
 |[Feather](https://apply.workable.com/feather/) | USA | |
+|[Feed Media Group](https://jobs.lever.co/FeedMedia) | USA | |
+|[Felt](https://felt.com/careers) | USA | |
 |[FieldLevel](https://www.fieldlevel.com/about/jobs#openings) | USA | |
 |[FightCamp](https://jobs.lever.co/fightcamp) | Anywhere | |
 |[Figma](https://www.figma.com/careers/#job-openings) | USA | |
@@ -206,6 +210,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Flashpoint](https://flashpoint.io/about-us/careers/#open-positions) | USA | |
 |[FlightRadar24](https://careers.flightradar24.com/) | Europe | Be located within a 3-hour time difference from Central European Time (CET/CEST). |
 |[Flock Safety](https://www.flocksafety.com/careers/openings) | USA | |
+|[Flow Club](https://flowclub.notion.site/Work-at-Flow-Club-1e6cc84bfc0d4463ab333ee9bc02c46a) | USA | |
 |[Flowspace](https://jobs.lever.co/flowspace/) | USA | Not approved to hire with visa sponsorship requirements. |
 |[Flywheel](https://jobs.lever.co/flywheel-2) | USA | Offices in Minneapolis, MN. |
 |[Flywire](https://www.flywire.com/company/careers/dept/5dacb2c3-6677-425c-b164-530d092d8ce9) | USA, Spain, Romania, Israel | |
@@ -304,6 +309,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Kickstarter](https://jobs.lever.co/kickstarter) | USA, UK, Canada | USA States: CA, CT, FL, GA, MA, MD, NC, NJ, NY, OR, VA, and WA. |
 |[Kin Insurance](https://boards.greenhouse.io/kininsurance) | USA | Offices: Chicago, IL & St. Petersburg, FL. |
 |[Kinsta](https://kinsta.com/careers/) | Anywhere | |
+|[Kitemaker](https://careers.kitemaker.co/) | Anywhere | |
 |[Knack](https://www.knack.com/careers) | Anywhere | |
 |[Koddi](https://jobs.lever.co/koddi/) | USA | Offices in TX, NY, MI, CA. |
 |[Kong](https://jobs.lever.co/kong/) | USA, EMEA | |
@@ -356,6 +362,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Modern Health](https://boards.greenhouse.io/modernhealth) | USA | |
 |[Modus Create](https://moduscreate.com/careers/) | USA, LATAM, Europe | Must overlap with EST timezone. |
 |[Momentive](https://www.momentive.ai/en/careers/dept/engineering/) | North America, Europe, APAC | |
+|[MoneyHash](https://jobs.ashbyhq.com/moneyhash) | Europe | Within GMT +1 & GMT +4. |
 |[MongoDB](https://www.mongodb.com/careers/positions) | North America, Brazil, Europe, India, APAC, USA | |
 |[Moov](https://moov.io/careers/#open-roles) | USA | |
 |[Moove It](https://moove-it.com/careers) | South America | |
@@ -385,6 +392,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Okta](https://www.okta.com/company/careers/#careers-job-postings) | USA, Canada, UK, Spain | |
 |[OneCommons](https://www.onecommons.org/jobs) | Anywhere | Headquarters: San Francisco, CA. |
 |[Olo](https://jobs.lever.co/olo/) | USA | |
+|[Omada](https://boards.greenhouse.io/omadahealth/) | USA | |
 |[OneSignal](https://onesignal.com/careers#section-job) | USA, UK | Offices in San Mateo, CA & New York, NY. |
 |[OOZOU](https://oozou.com/careers#positions) | Asia | Office located in Bangkok, Thailand. |
 |[Opendoor](https://jobs.lever.co/opendoor/) | USA, Canada | |
@@ -504,12 +512,14 @@ A big list of companies that are hiring software developers that can work remote
 |[Spacemesh](https://spacemesh.io/careers/) | Anywhere | A flat and fully remote structure, with team members in The United States, Italy, Ukraine, Israel, Germany, India, Taiwan, and more |
 |[SpiderOak](https://spideroakandms.applytojob.com/apply) | USA | |
 |[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html) | USA | |
+|[Spot](https://www.spotvirtual.com/careers/) | USA | Headquarters: Seattle, WA. |
 |[Spotify](https://www.lifeatspotify.com/jobs) | Americas, APAC, EMEA | |
 |[Spreedly](https://jobs.lever.co/spreedly/) | USA | States not supported: CA, NY, HI, AK. |
 |[Spring](https://apply.workable.com/spring-for-creators/) | USA | |
 |[Square](https://careers.smartrecruiters.com/Square/?remoteLocation=true) | USA, Canada | |
 |[Squarespace](https://www.squarespace.com/careers/engineering) | USA | |
 |[Squire](https://boards.greenhouse.io/squire) | USA | |
+|[Stacker](https://www.stackerhq.com/careers#job-listing) | Europe | |
 |[Stable](https://www.usestable.com/careers) | USA | USA timezones (GMT-5 to GMT-10) |
 |[Staked](https://staked.freshteam.com/jobs/) | Anywhere | |
 |[Standard AI](https://careers.standard.ai/#open-positions) | USA, Europe | |
@@ -518,6 +528,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Steakwallet](https://steakwallet.notion.site/Careers-at-Steakwallet-935e872dbf0d433598f78f9e59443193) | Europe, USA | |
 |[Stellar](https://boards.greenhouse.io/stellar) | USA, Canada | |
 |[Sticker Mule](https://www.stickermule.com/careers) | Anywhere | |
+|[Stir](https://careers.usestir.com/jobs) | Anywhere | |
 |[Stride](https://www.stridebenefits.com/careers-posting) | USA | |
 |[Stripe](https://stripe.com/jobs/search) | North America | |
 |[Substack](https://substack.com/jobs) | North America | Main office is in San Francisco with a remote-first team distributed across North America. |
@@ -531,6 +542,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Sysdig](https://sysdig.com/jobs/) | USA, EMEA, Europe, Serbia | |
 |[Tackle](https://jobs.lever.co/tackle) | USA | |
 |[Talkdesk](https://www.talkdesk.com/careers/td#openings) | USA, Portugal, Singapore, Canada, Italy | |
+|[TalkJS](https://talkjs.notion.site/Come-work-at-TalkJS-a9bcd1d260af482db04aa087978dc76c) | Europe, Africa | Headquarters: Netherlands. |
 |[Tari](https://jobs.lever.co/tari/) | Anywhere | |
 |[Teamflow](https://www.notion.so/Teamflow-Job-Board-225515ad0f824ef8920e9a4db7c7abbf) | Anywhere | |
 |[Telegram](https://telegram.org/jobs) | Anywhere | |
@@ -543,6 +555,7 @@ A big list of companies that are hiring software developers that can work remote
 |[The Athletic](https://jobs.lever.co/theathletic) | USA, Canada, Australia | |
 |[The Block](https://jobs.lever.co/theblockcrypto) | USA | |
 |[The Zebra](https://www.thezebra.com/about/careers/#job-listings) | USA | Support employees who want to be fully remote, in-office only, and a mix of the two. States not supported: CA, MA. |
+|[Themis](https://jobs.polymer.co/themis) | USA | Headquarters: New York City, NY. |
 |[TheoremOne](https://jobs.lever.co/theoremonellc) | Anywhere | |
 |[Thrive Market](https://thrivemarketjobs.com/index.html#tm-job-container) | USA | |
 |[Thumbtack](https://boards.greenhouse.io/thumbtack/) | USA, Canada | |
@@ -556,6 +569,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Truepill](https://jobs.lever.co/truepill/) | USA | |
 |[Tucows](https://tucows.com/careers/opportunities/) | USA, Canada | Offices throughout USA & Toronto. |
 |[TUNE](https://jobs.lever.co/tune) | USA, Canada | Remote first company and embraces hiring engineers and various other roles across the United States & Canada. |
+|[Turnstile](https://jobs.ashbyhq.com/turnstile) | USA, Canada | |
 |[Turquoise Health](https://turquoise.health/careers#openings) | USA | |
 |[Twilio](https://boards.greenhouse.io/twilio) | USA | |
 |[Twitter](https://careers.twitter.com/en/roles.html#) | USA, Canada, Europe, Singapore, Mexico, Japan, India, Ghana,Brazil, Australia | |
