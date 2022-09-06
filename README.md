@@ -582,6 +582,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Twitter](https://careers.twitter.com/en/roles.html#) | USA, Canada, Europe, Singapore, Mexico, Japan, India, Ghana,Brazil, Australia | |
 |[Tynker](https://www.tynker.com/about/career) | USA | |
 |[Typeform](https://www.typeform.com/careers/engineering-19389/) | Europe | |
+|[U-Haul](https://jobs.uhaul.com/) | USA | Fully remote teams hiring anywhere in the United States |
 |[UpLift](https://boards.greenhouse.io/joinuplift) | USA | |
 |[Upstart](https://www.upstart.com/careers/open-roles) | USA | |
 |[Upwork](https://www.upwork.com/careers/jobs/explore) | USA | Only supports 15 states: AR, CA, FL, GA, IL, MD, MA, MI, MN, PA, TE, TX, WA. |
