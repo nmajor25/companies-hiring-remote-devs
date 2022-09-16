@@ -20,7 +20,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Adyen](https://careers.adyen.com/vacancies?locations=Remote&teams=Development) | USA | |
 |[Affirm](https://boards.greenhouse.io/affirm/) | USA | [Remote-first company](https://www.linkedin.com/pulse/new-ways-we-work-jude-komuves/). |
 |[Aha!](https://www.aha.io/company/careers/current-openings) | North & South America | |
-|[Airship](https://jobs.lever.co/airship) | USA, Europe | |
+|[Airship](https://www.airship.com/company/careers/#open-positions) | USA, Europe | |
 |[Airbnb](https://careers.airbnb.com/) | USA | [Tweet from the CEO with more info](https://twitter.com/bchesky/status/1519831566486147073). |
 |[Alchemy](https://jobs.lever.co/alchemy) | USA | |
 |[Algolia](https://www.algolia.com/careers/) | Americas, EMEA | Hybrid remote workplace strategy. Physical offices in San Francisco, NYC, Atlanta, Paris, London, Bucharest. |
@@ -35,7 +35,6 @@ A big list of companies that are hiring software developers that can work remote
 |[Appcues](https://jobs.lever.co/appcues-2/) | Anywhere | |
 |[Appwrite](https://appwrite.io/company/careers#openings) | USA | Timezones: UTC+06:00 to UTC-06:00. |
 |[Aptible](https://boards.greenhouse.io/aptible) | USA | Timezones: PT to EST. |
-|[Ark](https://ark.io/careers) | Anywhere | Preference for developers that can work CET hours. |
 |[Articulate](https://boards.greenhouse.io/articulate) | USA | |
 |[Atlassian](https://jobs.lever.co/atlassian) | USA, India, Australia, Turkey, Poland | |
 |[AtoB](https://jobs.lever.co/atob) | USA, Canada | |
