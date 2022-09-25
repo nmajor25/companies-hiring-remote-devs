@@ -577,7 +577,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Truebill](https://boards.greenhouse.io/truebill/) | USA | |
 |[Truepill](https://jobs.lever.co/truepill/) | USA | |
 |[Tucows](https://tucows.com/careers/opportunities/) | USA, Canada | Offices throughout USA & Toronto. |
-|[TUNE](https://jobs.lever.co/tune) | USA, Canada | Remote first company and embraces hiring engineers and various other roles across the United States & Canada. |
+|[TUNE](https://jobs.lever.co/tune) | USA, Canada | |
 |[Turnstile](https://jobs.ashbyhq.com/turnstile) | USA, Canada | |
 |[Turquoise Health](https://turquoise.health/careers#openings) | USA | |
 |[Twilio](https://boards.greenhouse.io/twilio) | USA | |
@@ -625,11 +625,11 @@ A big list of companies that are hiring software developers that can work remote
 |[X-Team](https://jobs.x-team.com/jobs/) | Anywhere | |
 |[Yat Labs](https://jobs.lever.co/tari/) | Anywhere | |
 |[Yelp](https://jobs.lever.co/yelp/) | USA, Canada | |
-|[Yep](https://yep.com/jobs/) | Asia, USA | Headquarters in Singapore. |
-|[Yeti](https://yeti.co/jobs/) | Anywhere | |
-|[Yik Yak](https://yikyak.com/careers) | USA | |
+|[Yep](https://yep.com/jobs/) | Singapore, USA | Headquarters: Singapore. |
+|[Yeti](https://yeti-cave.notion.site/Job-Listings-5f474550618d49d4a10ec66cb093e57a) | Anywhere | |
+|[Yik Yak](https://yikyak.com/careers) | USA | Headquarters: Nashville, TN. |
 |[Yottled](https://yottled.notion.site/Careers-d3ec93fbe2d14dbdb802b94c1794000e) | Anywhere | |
 |[ZEAL](https://www.codingzeal.com/careers#current-openings) | USA | |
-|[Zest AI](https://boards.greenhouse.io/zestai) | USA | |
-|[Zoom](https://careers.zoom.us/jobs/search) | USA, Europe | |
+|[Zest AI](https://boards.greenhouse.io/zestai) | USA | Headquarters: Burbank, CA. |
+|[Zoom](https://careers.zoom.us/jobs/search) | USA, India | |
 |[Zwift](https://www.zwift.com/careers) | USA | |
