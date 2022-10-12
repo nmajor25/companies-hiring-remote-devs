@@ -133,42 +133,38 @@ A big list of companies that are hiring software developers that can work remote
 |[Cribl](https://cribl.io/job-detail/) | USA, Canada | |
 |[Crowdcast](https://crowdcast.notion.site/Join-Team-Crowdcast-112fa980fa404e4f9ae949a4c6d5c9f5) | USA, Europe | |
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | USA, Canada, Australia, Europe, India | |
-|[Custom Ink](https://customink.wd5.myworkdayjobs.com/CustomInk) | USA |  |
 |[Cypress](https://boards.greenhouse.io/cypressio) | USA |  |
 |[Daily](https://boards.greenhouse.io/daily/) | Anywhere | Team mostly resides in the US East and Central Europe timezones. |
 |[Data AI](https://careers.data.ai/us/en/search-results) | USA, Canada, EMEA, Singapore, Japan, India | |
-|[Datadog](https://www.datadoghq.com/jobs-engineering/) | USA, Europe | |
+|[Datadog](https://www.datadoghq.com/jobs-engineering/) | USA | |
 |[DataGrail](https://boards.greenhouse.io/datagrail) | USA, Canada | Offices: San Francisco, CA. |
 |[Dataiku](https://www.dataiku.com/careers/#open-positions) | USA, Europe | |
 |[Dave](https://jobs.lever.co/dave) | USA | |
 |[Deel](https://jobs.ashbyhq.com/Deel/) | LATAM, EMEA | |
 |[Deepgram](https://jobs.lever.co/deepgram/) | USA | |
-|[Deepnote](https://deepnote.com/join-us) | Europe | |
+|[Deepnote](https://deepnote.com/join-us) | Europe, USA | Offices: Prague and San Francisco. |
 |[Degreed](https://boards.greenhouse.io/degreed/) | USA | |
 |[Density](https://jobs.lever.co/density/) | USA | |
 |[Depict](https://careers.depict.ai/jobs/) | Europe | Within 2 hours of CET timezone. Headquarters: Stockholm, Sweden. |
-|[Descript](https://www.descript.com/careers#open-position) | USA, Canada | Timezones: PST to EST. |
-|[Devpost](https://careers.jobscore.com/careers/devpost/) | USA, Canada | |
-|[Digit](https://boards.greenhouse.io/digit) | USA, Australia | |
+|[Descript](https://www.descript.com/careers#open-position) | USA, Canada | Timezones: PST to EST. Offices: San Francisco and Montreal. |
+|[Devpost](https://careers.jobscore.com/careers/devpost/) | USA, Canada | Offices: New York. |
+|[Digit](https://boards.greenhouse.io/digit) | USA | |
 |[Digital Masterplanning](https://www.digitalmasterplanning.com/careers) | USA | Preferred timezone: CST (GMT-06:00). |
-|[DigitalOcean](https://www.digitalocean.com/careers) | USA, Canada, India | |
-|[Discord](https://discord.com/jobs) | USA | |
+|[DigitalOcean](https://www.digitalocean.com/careers) | USA, Canada, India, Europe | |
+|[Discord](https://discord.com/jobs) | USA | Offices: San Francisco, CA. |
 |[Ditto](https://jobs.ashbyhq.com/ditto) | Anywhere | |
 |[Docker](https://www.docker.com/career-openings/) | USA, Canada, Mexico, Europe | |
-|[Documo](https://www.documo.com/company/careers#careers-list) | Anywhere | USA business hours. |
 |[Doist](https://doist.com/careers#open-roles) | Anywhere | |
-|[Dolly](https://dolly.com/hiring#listings) | USA, Canada | North America timezone. |
+|[Dolly](https://dolly.com/hiring#listings) | USA, Canada | North America timezone. Offices: Seattle, WA. |
 |[DoorDash](https://careers.doordash.com/#open-positions) | USA | |
-|[DraftKings](https://careers.draftkings.com/jobs/) | USA | |
-|[Dribbble](https://apply.workable.com/dribbble/) | Canada | |
-|[Dropbox](https://www.dropbox.com/jobs/all-jobs) | USA, Canada, Ireland | |
+|[DraftKings](https://careers.draftkings.com/jobs/) | USA | Offices: Boston, MA. |
+|[Dribbble](https://apply.workable.com/dribbble/) | Canada, USA | |
+|[Dropbox](https://www.dropbox.com/jobs/all-jobs) | USA, Canada, Europe | |
 |[DuckDuckGo](https://duckduckgo.recruitee.com/) | Anywhere | |
 |[Dutchie](https://dutchie.com/careers) | Anywhere | |
-|[DUOS](https://boards.greenhouse.io/duos) | USA | |
 |[Earthshot Labs](https://www.earthshot.eco/careers) | Anywhere | |
 |[EasyPost](https://jobs.lever.co/easypost-2/?department=Engineering) | USA | |
-|[Eaze](https://jobs.lever.co/eaze/) | USA | Offices: San Francisco, CA and Los Angeles, CA. |
-|[eBay](https://jobs.ebayinc.com/search-jobs) | USA | Excludes New Mexico, Colorado, Hawaii. |
+|[eBay](https://jobs.ebayinc.com/search-jobs) | USA, Canada, Europe | Excludes New Mexico, Colorado, Hawaii. |
 |[Elastic](https://jobs.elastic.co/#/) | USA, Canada, EMEA, Europe | |
 |[Element](https://apply.workable.com/elementio/#jobs) | USA, UK | Headquarters: London, UK. |
 |[Empower](https://jobs.lever.co/empower.me) | Anywhere | |
@@ -176,11 +172,10 @@ A big list of companies that are hiring software developers that can work remote
 |[Enigma](https://airtable.com/shrptg7c6Oo9ZxKEO) | Anywhere | |
 |[Enjin](https://enjin.io/careers#positions) | Anywhere | |
 |[EqipmentShare](https://www.equipmentshare.com/careers/openings) | USA | Offices: Kansas City, MO & Columbia, MO. |
-|[Ergatta](https://jobs.lever.co/ergatta) | USA | |
-|[Etsy](https://careers.etsy.com/global/en/c/engineering-jobs) | USA | States not allowed: Hawaii and Alaska. |
+|[Ergatta](https://jobs.lever.co/ergatta) | USA | Offices: New York City. |
+|[Etsy](https://careers.etsy.com/global/en/c/engineering-jobs) | USA, Mexico | States not allowed: Hawaii and Alaska. |
 |[Even Financial](https://jobs.lever.co/evenfinancial) | USA | Offices: New York City. |
 |[Eventbrite](https://www.eventbritecareers.com/jobs/search?page=1&query=&department_uids%5B%5D=efe19e299be51b340f785009186207b6) | USA, Spain | |
-|[Evernote](https://evernote.com/careers/job/) | USA | |
 |[Exodus](https://www.exodus.com/careers/) | Anywhere | |
 |[ExpressVPN](https://www.expressvpn.com/jobs/job-openings) | Asia, Europe | |
 |[Fabric](https://boards.greenhouse.io/fabric83) | USA | |
