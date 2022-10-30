@@ -256,6 +256,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Helix](https://boards.greenhouse.io/helix/) | USA, Chile | |
 |[Help Scout](https://jobs.lever.co/helpscout) | USA | |
 |[Heroku](https://www.heroku.com/careers#openings) | North America | |
+|[HicknHack Software](https://www.hicknhack-software.com/job-offers) | Germany | |
 |[Higher Logic](https://www.higherlogic.com/about/company/jobs/) | USA, Canada | |
 |[Hims & Hers](https://boards.greenhouse.io/himshers) | Anywhere | |
 |[Hipcamp](https://jobs.lever.co/hipcamp) | USA, Canada | |
