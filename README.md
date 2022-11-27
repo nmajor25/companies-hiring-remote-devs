@@ -102,7 +102,6 @@ A big list of companies that are hiring software developers that can work remote
 |[Circle](https://www.circle.com/en/careers) | Anywhere | |
 |[CircleCI](https://circleci.com/careers/jobs/) | USA, Canada, Europe | |
 |[CivicAction](https://civicactions.com/careers/#open-positions) | USA | |
-|[Civis Analytics](https://boards.greenhouse.io/civisanalytics) | USA | |
 |[ClassDojo](https://boards.greenhouse.io/classdojo/) | USA, Canada, Mexico | |
 |[Clearbit](https://jobs.lever.co/clearbit) | USA | |
 |[Cleary](https://gocleary.com/careers/) | Americas | |
@@ -112,11 +111,9 @@ A big list of companies that are hiring software developers that can work remote
 |[ClickUp](https://clickup.com/careers) | Anywhere | |
 |[Clipboard Health](https://boards.greenhouse.io/clipboardhealth) | USA | Pacific Timezone hours. |
 |[Close](https://jobs.lever.co/close.io) | Anywhere | |
-|[CloudBees](https://www.cloudbees.com/careers/job) | USA, India, EMEA, Europe, Australia | |
 |[Clubhouse](https://jobs.lever.co/clubhouse) | USA | Headquarters: San Francisco, CA. |
 |[CM Group](https://campaignmonitor.wd5.myworkdayjobs.com/en-US/CM_Group) | USA | |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/jobs/) | USA, Canada | Offices: New York, NY. |
-|[CodeSignal](https://boards.greenhouse.io/codesignal/) | Anywhere | |
 |[Codility](https://boards.greenhouse.io/codility) | USA, Europe, Canada | Offices: San Francisco, London, Warsaw, and Berlin. |
 |[Coinbase](https://www.coinbase.com/careers/positions) | USA, Canada, India | Headquarters: San Francisco, CA. |
 |[Coinlist](https://boards.greenhouse.io/coinlist/) | USA | Offices: New York, NY and San Francisco, CA. |
@@ -220,7 +217,7 @@ A big list of companies that are hiring software developers that can work remote
 |[FullStack Labs](https://jobs.lever.co/fullstacklabs/) | USA, Colombia, LATAM, Canada | |
 |[FullStory](https://www.fullstory.com/careers/) | USA, Canada | |
 |[G2](https://company.g2.com/careers/open-positions) | USA | |
-|[Gather](https://www.gather.town/careers#positions-list) | Anywhere | [Virtual office](https://staging.gather.town/app/oxrhEtb3sV7VutbQ/GatherOffice). |
+|[Gather](https://boards.greenhouse.io/gather) | Anywhere | [Virtual office](https://staging.gather.town/app/oxrhEtb3sV7VutbQ/GatherOffice). |
 |[Gelato](https://recruitcrm.io/jobs/Gelato_Network_careers) | Anywhere | |
 |[Gemini](https://www.gemini.com/careers) | USA, Europe, Asia | |
 |[Getro](https://boards.greenhouse.io/getro) | Anywhere | |
@@ -256,7 +253,6 @@ A big list of companies that are hiring software developers that can work remote
 |[Helix](https://boards.greenhouse.io/helix/) | USA, Chile | |
 |[Help Scout](https://jobs.lever.co/helpscout) | USA | |
 |[Heroku](https://www.heroku.com/careers#openings) | North America | |
-|[HicknHack Software](https://www.hicknhack-software.com/job-offers) | Germany | |
 |[Higher Logic](https://www.higherlogic.com/about/company/jobs/) | USA, Canada | |
 |[Hims & Hers](https://boards.greenhouse.io/himshers) | Anywhere | |
 |[Hipcamp](https://jobs.lever.co/hipcamp) | USA, Canada | |
@@ -611,7 +607,6 @@ A big list of companies that are hiring software developers that can work remote
 |[Turnstile](https://jobs.ashbyhq.com/turnstile) | USA, Canada | |
 |[Turquoise Health](https://turquoise.health/careers#openings) | USA | |
 |[Twilio](https://boards.greenhouse.io/twilio) | USA | |
-|[Twitter](https://careers.twitter.com/en/roles.html#) | USA, Canada, Europe, Singapore, Mexico, Japan, India, Ghana,Brazil, Australia | |
 |[Tynker](https://www.tynker.com/about/career) | USA | |
 |[Typeform](https://www.typeform.com/careers/engineering-19389/) | Europe | |
 |[U-Haul](https://jobs.uhaul.com/) | USA | |
