@@ -112,7 +112,9 @@ A big list of companies that are hiring software developers that can work remote
 |[Compound](https://jobs.ashbyhq.com/compound) | USA | Offices: San Francisco and New York. |
 |[Confluent](https://jobs.lever.co/confluent/) | USA, Europe, India | |
 |[ConsenSys](https://consensys.net/open-roles/) | Anywhere | |
+|[Contentstack](https://www.contentstack.com/company/careers/#openingsection) | USA, India | Offices: USA, Europe, South America, India. |
 |[ConvertKit](https://convertkit.com/careers) | USA | |
+|[Cortex](https://www.cortex.io/careers#open-positions) | USA | |
 |[Coursera](https://about.coursera.org/careers/jobs/) | USA, Canada, India | Headquarters: Mountain View, CA. |
 |[Credit Key](https://apply.workable.com/credit-key/) | USA | |
 |[Cribl](https://cribl.io/job-detail/) | USA, Canada | |
@@ -165,6 +167,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Fanatics](https://jobs.lever.co/fanatics) | USA | |
 |[FanDuel](https://www.fanduel.com/open-positions) | USA, UK | |
 |[Fastly](https://www.fastly.com/about/careers/current-openings) | USA, Europe | |
+|[Feather Insurance](https://feather-insurance.com/careers#positions) | Europe | Offices: Berlin, Germany. |
 |[Felt](https://felt.com/careers) | USA | |
 |[FightCamp](https://jobs.lever.co/fightcamp) | Anywhere | |
 |[Figma](https://www.figma.com/careers/#job-openings) | USA | |
@@ -202,10 +205,12 @@ A big list of companies that are hiring software developers that can work remote
 |[GoDaddy](https://careers.godaddy.com/search-jobs) | Canada, USA, EMEA | |
 |[GoFundMe](https://boards.greenhouse.io/gofundme) | Anywhere | |
 |[Goldbelly](https://boards.greenhouse.io/goldbelly) | USA | Offices: New York, NY. |
+|[GoodNotes](https://www.goodnotes.com/careers#Current-Openings) | Europe, Asia | Offices: Hong Kong, London. |
 |[Google](https://careers.google.com) | USA, Europe, India | |
 |[Gopuff](https://gopuff.com/go/careers) | USA | |
 |[Gordian](https://www.gordiansoftware.com/careers) | USA | [Hybrid company](https://www.gordiansoftware.com/news/seven-plus-one). |
 |[Gorgias](https://jobs.lever.co/gorgias/) | USA, Europe | |
+|[Grail](https://jobs.lever.co/grailbio) | USA | Offices: Menlo Park, CA. |
 |[Grammarly](https://www.grammarly.com/jobs/technology) | USA, Europe, Canada | |
 |[Graylog](https://jobs.lever.co/graylog/) | USA, Europe | |
 |[Greenhouse](https://www.greenhouse.io/careers/opportunities) | USA | |
@@ -244,6 +249,8 @@ A big list of companies that are hiring software developers that can work remote
 |[Indeed](https://search.indeed.jobs/main/jobs) | USA, India, Japan, Singapore, Ireland | |
 |[InfluxData](https://www.influxdata.com/careers/#open-position) | USA | |
 |[Instabase](https://instabase.com/careers/) | USA | |
+|[Insurity](https://jobs.jobvite.com/insurity-review/jobs/positions) | USA, Canada | Offices: Hartford, CT. |
+|[Internet Archive](https://archive.org/about/jobs.php) | Anywhere | Based in San Francisco, CA. |
 |[Instacart](https://instacart.careers/current-openings/) | USA, Australia | |
 |[Intruder](https://careers.intruder.io/) | Europe | +/- 2 hours of the GMT timezone. |
 |[InVision](https://www.invisionapp.com/careers) | Anywhere | |
@@ -416,6 +423,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Sailpoint](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs) | USA, Canada, Mexico, India | |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site) | USA, Canada, India, Argentina | |
 |[SalesLoft](https://salesloft.com/careers/) | USA, Mexico, UK | |
+|[Samsara](https://www.samsara.com/company/careers/roles/) | USA | |
 |[Sanity](https://www.sanity.io/careers#openPositions) | USA, Europe | Offices: San Francisco, CA & Oslo, Norway. |
 |[Scribd](https://jobs.lever.co/scribd/) | USA, Canada | Primary residence must be: AR, CA, CO, DE, DC, FL, HI, IA, MA, MI, MO, NV, NJ, NY, OH, OR, TN, TX, UT, VT, WA, Ontario (Canada), British Columbia (Canada). |
 |[SDVI](https://sdvi.com/careers/#OpenPositions) | Americas, EMEA, APAC | |
@@ -442,6 +450,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Sisense](https://www.sisense.com/careers/#job-positions-table) | USA | |
 |[Skilljar](https://boards.greenhouse.io/skilljar) | USA | |
 |[Skillshare](https://jobs.lever.co/skillshare) | USA, South America | |
+|[Sleuth](https://www.sleuth.io/careers#jobs) | USA, Europe | |
 |[Smarking](https://jobs.lever.co/smarking/) | North America | |
 |[Smartcat](https://www.smartcat.com/careers/#offers) | Anywhere | |
 |[SmartRent](https://smartrent.com/careers/apply/) | USA | |
@@ -475,6 +484,7 @@ A big list of companies that are hiring software developers that can work remote
 |[Sumo Logic](https://boards.greenhouse.io/sumologic) | USA, Europe, Canada | |
 |[Superhuman](https://superhuman.com/roles) | North America | |
 |[Sure](https://jobs.lever.co/sure/) | Anywhere | |
+|[Svix](https://www.svix.com/careers/) | Canada, USA, South America | Headquarters: San Francisco, CA. Timezones: UTC-8 to UTC+3. |
 |[Swiftly](https://jobs.lever.co/goswift) | USA, Canada | Headquarters: San Francisco, CA. |
 |[Syncro](https://syncromsp.com/careers/) | USA, Canada | |
 |[Sysdig](https://sysdig.com/jobs/) | USA, EMEA, Europe, Serbia | |
